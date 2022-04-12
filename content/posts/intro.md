@@ -1,16 +1,15 @@
 ---
 title: "La cultura en el desarrollo de software"
 date: 2022-04-12
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'Este es mi post de introducción a la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Piensa en la cultura de un profesional de software y redacta a tu manera un post donde nos muestres qué valores, prácticas, sentimientos, emociones, y demás, valoras en un desarrollador de software.
-¡Bienvenides a mi primer post!
+¡Bienvenides!
 
 Comenzaré con una gran pregunta: ¿Qué valores, prácticas, sentimientos, emociones, y demás, valoras en un desarrollador profesional de software?  
 Para responder, dejaré primero un pequeño contexto. En lo personal, nunca he trabajado con profesionales de software, por lo que mi experiencia en ese aspecto es nula básicamente. Comencé en el mundo de la programación en un curso el año pasado en Innovacción sobre Arquitectura de Información y obtuve mi insignia de Azure Fundamentals, que es programación en la nube; como continuación de esa previa experiencia, ingresé a Launch X (gracias nuevamente a Innovacción), por lo que estaré colocando valores que he visto en mis sherpas y mission comanders.  
 
-Valores y prácticas que considero importantes:  
+**Valores y prácticas que considero importantes:**  
 💛 Amabilidad  
 💛 Tolerancia  
 💛 Superación  
@@ -23,7 +22,7 @@ Valores y prácticas que considero importantes:
 💛 Flexibiidad  
 💛 Adaptación al cambio  
 
-¿Por qué son importantes para mi?  
+**¿Por qué son importantes para mi?**  
 Tal vez de una primera leída serán muchos, o tal vez pocos, pero los considero necesarios e importantes en todo desarrollador de software. Comienzo con la **amabilidad**: es importante ya que es un valor social que sobre todo se deriva del respeto, este es esencial para poder convivir e interactuar con distintos tipos de personas, por lo que la amabilidad nos permite relacionarnos de una manera positiva con los demás.  
 La **tolerancia** considero que es imprescindible también, esto porque el contexto de un desarrollador de software es en muchas ocasiones de incertidumbre, de fallos o errores, de que algo no salga como lo planeado, que de repente algún nuevo compañero no comprenda tu forma de escribir código, si algo no se guardó, un archivo se corrompió, etc., por lo que este valor se vuelve en una herramienta para no morir del estrés.  
 La **superación** la he visto sobre todo en mis sesiones o mentorías en vivo dentro de Innovacción, todas las personas que forman parte de esta increíble experiencia han buscado y siguen buscando superarse todos los días, siempre están superándose, aprendiendo y experimentando sobre muchos aspectos para ser mejores personas. Debido a lo anterior, considero que una persona que sea desarrolladora de software debe tener este valor para aprender de ella y ser mejor cada día.  
@@ -39,4 +38,4 @@ Estar cómodes con la incertidumbre no nos excenta de sufrir emociones y sentimi
 Aquí termina este primer post.  
 ¡Gracias por leer, nos vemos en el siguiente!  
 
-Saludos, Annie.✨
+*Saludos, Annie.✨*
