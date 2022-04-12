@@ -36,8 +36,8 @@ Por último la **flexibilidad** y **adaptación al cambio** son importantísimos
 En el caso de los **sentimientos** y **emociones**, considero que no puedo encerrar solo algunos, pero tal vez algo que englobe esto es **estar cómodes con la incertidumbre**, como lo comentaba en la tolerancia, el ámbito de desarrolladores de software siempre es cambiante, además de que muchas veces nos encontraremos en la incertidumbre tanto en programas, como en errores, en experiencias, interacciones, etc., por lo que esa emoción nos generará muchas más en cadena, acompañadas de sentimientos.  
 Estar cómodes con la incertidumbre no nos excenta de sufrir emociones y sentimientos negativos, pero nos prepara para poder afrontarlos.  
 
-Aquuí termina este primer post.  
-¡Nos vemos en el siguiente!  
+Aquí termina este primer post.  
+¡Gracias por leer, nos vemos en el siguiente!  
 
 
-Annie ✨
+Saludos, Annie.✨
