@@ -14,7 +14,7 @@ Empezaré en esta primera parte a enlistarte mis expectativas para esta Backend 
 💠 Seguir familiarizándome con VSCode.  
 💠 Conocer y aprender sobre el control de versiones a mayor profundidad (Git).  
 💠 Aprender más sobre GitHub.  
-💠 Seguir aplicando, explorando y expandiendo mis conocimientos sobre Frontend.  
+💠 Seguir aplicando y expandiendo mis conocimientos sobre Frontend.  
 💠 Ayudar a la comunidad de explorers de Launch X en lo que me sea posible.  
 💠 Conocer y aprender muuuuucho sobre Backend.  
 💠 Superarme cada día en esta misión.  
