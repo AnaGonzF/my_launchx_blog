@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://anagonzf.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://anagonzf.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La cultura en el desarrollo de software</title>
+      <link>https://anagonzf.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anagonzf.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Piensa en la cultura de un profesional de software y redacta a tu manera un post donde nos muestres qué valores, prácticas, sentimientos, emociones, y demás, valoras en un desarrollador de software. ¡Bienvenides a mi primer post!
+Comenzaré con una gran pregunta: ¿Qué valores, prácticas, sentimientos, emociones, y demás, valoras en un desarrollador profesional de software?
+Para responder, dejaré primero un pequeño contexto. En lo personal, nunca he trabajado con profesionales de software, por lo que mi experiencia en ese aspecto es nula básicamente.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://anagonzf.github.io/my_launchx_blog/pages/about/</link>
