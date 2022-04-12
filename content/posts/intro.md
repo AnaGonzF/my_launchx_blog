@@ -4,7 +4,7 @@ date: 2022-04-12
 description: 'Este es mi post de introducción a la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-¡Bienvenides!
+## ¡Bienvenides!
 
 Comenzaré con una gran pregunta: ¿Qué valores, prácticas, sentimientos, emociones, y demás, valoras en un desarrollador profesional de software?  
 Para responder, dejaré primero un pequeño contexto. En lo personal, nunca he trabajado con profesionales de software, por lo que mi experiencia en ese aspecto es nula básicamente. Comencé en el mundo de la programación en un curso el año pasado en Innovacción sobre Arquitectura de Información y obtuve mi insignia de Azure Fundamentals, que es programación en la nube; como continuación de esa previa experiencia, ingresé a Launch X (gracias nuevamente a Innovacción), por lo que estaré colocando valores que he visto en mis sherpas y mission comanders.  
