@@ -39,5 +39,4 @@ Estar cómodes con la incertidumbre no nos excenta de sufrir emociones y sentimi
 Aquí termina este primer post.  
 ¡Gracias por leer, nos vemos en el siguiente!  
 
-
 Saludos, Annie.✨
