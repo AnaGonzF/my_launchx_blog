@@ -1,6 +1,6 @@
 ---
 title: "¿Qué me llevé de la Frontend Mission?"
-date: 2022-03-01
+date: 2022-04-12
 description: 'En este post te hablaré sobre mi ruta de aprendizaje en Launch X de Innovacción Virtual, específicamente sobre la Frontend Mission'
 ---
 
