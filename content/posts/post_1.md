@@ -35,11 +35,11 @@ Siguiendo el temario, empezamos a ver la **estructura web**, tanto jerarquías, 
 ### Semana 2: Primer vuelo
 En esta semana tuvimos una intro a HTML ya, este lenguaje nos da la posibilidad de darle la estrutura deseada a nuestra información, o sea, nuestras páginas web, es el esqueleto del que hablaba anteriormente. 
 El temario fue el siguiente: 
-- Qué es HTML y estructura de archivo
-- Etiquetas básicas
-- Elementos compuestos
-- Acomodo y Navegación
-- Propiedades de etiquetas
+- 💠 Qué es HTML y estructura de archivo
+- 💠 Etiquetas básicas
+- 💠 Elementos compuestos
+- 💠 Acomodo y Navegación
+- 💠 Propiedades de etiquetas
 
 Este contenido la verdad fue muy deslumbrante para mi, ya que esta fue mi primera vez haciendo una página web, sinceramente al principio pensé que sería super difícil, pero no, la verdad es que fue muy suave la curva de aprendizaje, además de que me ayudó mucho el on boarding para poder entender muy bien todo.  
 Claro que tuve muchos errores, muchas cosas que repetir, me tomé mi tiempo para hacerlo todo, pero pude realizarlo, que es lo que me llevo.
@@ -57,21 +57,21 @@ La práctica realizada en esta semana, fue clonar un sitio de vacunación, tanto
 En esta semana vimos una intro a programación con JavaScript, funciones y excepciones. Así, estuvimos viendo el temario con JS en el navegador.  
 Esta semana me recordó mucho a el on boarding, ya que se me hizo muy familiar la programación en JS con la de Python, entonces no fue tan confuso entrar a un lenguaje nuevo, solo que había diferentes términos, como por ejemplo que en lugar de *print()* era *console.log()*.  
 La práctica de esta semana fue realizar un pokedex, por lo que los requerimientos fueron: 
-- La maquetación del sitio con HTML
-- Diseño con CSS para que realmente pareciera un pokedex
-- Tener imput de entrada, ya que lo que se buscaba era que la persona pudiera introducir el nombre del pokemon y que apareciera una imagen y ciertos datps
-- Tomar el input e ir a consultar el API en [pokeapi](https://pokeapi.co/)
-- Mostrar en la pantalla los siguientes datos del pokemon ingresado: 
-    - Nombre
-    - Imágen
-    - Tipo de pokemón
-    - Estadísticas
-    - Movimientos
+- 💠 La maquetación del sitio con HTML
+- 💠 Diseño con CSS para que realmente pareciera un pokedex
+- 💠 Tener imput de entrada, ya que lo que se buscaba era que la persona pudiera introducir el nombre del pokemon y que apareciera una imagen y ciertos datps
+- 💠 Tomar el input e ir a consultar el API en [pokeapi](https://pokeapi.co/)
+- 💠 Mostrar en la pantalla los siguientes datos del pokemon ingresado: 
+    - 🔹 Nombre
+    - 🔹 Imágen
+    - 🔹 Tipo de pokemón
+    - 🔹 Estadísticas
+    - 🔹 Movimientos
 
 Además de obtener un bonus por lo siguiente:
-- Si la página es responsive
-- Despliegue (sitio real)
-- Uso de otras ritas como buscar por número de pokemon o mostrar un rango de pokemon.
+- 💠 Si la página es responsive
+- 💠 Despliegue (sitio real)
+- 💠 Uso de otras ritas como buscar por número de pokemon o mostrar un rango de pokemon.
 
 A partir de esta semana, estuve muy ocupada y estresada con la U, por lo que no pude terminar las prácticas, sin embargo si atendí las mentorías, por lo que siguen en pie y las subiré próximamente.
 
@@ -80,23 +80,23 @@ En esta semana tuvimos un intro a Frameworks, también de VueJs con Vuex. VueJS 
 
 La práctica de esta semana fue una recapitulación de la práctica de la pastelería, tendríamos que estar haciendo las entradas de los formularios y guardándolos en el estado para poder mostrarlo del lado del pastelero, o sea, que si alguien ordenaba un pastel a través del formulario, entonces el pastelero podría verlo instatáneamente.  
 Por lo que los componenetes necesarios para el lado del cliente serían:
-- Información de la pastelería
-- Opciones para los diferentes sabores de pastel con precios respectivos
-- Opciones de los dieferentes adornos con su precio respectivo
-- Opcoones para combinar sabores
-- Opciones para combinar adornos
-- Por último el formulario con datos de contacto del cliente
+- 💠 Información de la pastelería
+- 💠 Opciones para los diferentes sabores de pastel con precios respectivos
+- 💠 Opciones de los dieferentes adornos con su precio respectivo
+- 💠 Opcoones para combinar sabores
+- 💠 Opciones para combinar adornos
+- 💠 Por último el formulario con datos de contacto del cliente
 Y del lado del pastelero serían:
-- Información de cantidad de sabores disponibles
-- Información de la cantidad de adornos disponibles
-- Pedidos que se han reralizado con los datos del formulario
+- 💠 Información de cantidad de sabores disponibles
+- 💠 Información de la cantidad de adornos disponibles
+- 💠 Pedidos que se han reralizado con los datos del formulario
 Y en general:
 - Uso de rutas para poder acceder a la página de cliente y de pastelero (router de Vue)
 - Información de sabores, adornos, cantidades y precio debe de estar en el estado con Vuex o Vite y se debe modificar ahí para mostrarse en los componentes.
 
 Como siempre, el bonus sería si;
-- La página es responsive
-- Despliegue
+- 💠 La página es responsive
+- 💠 Despliegue
 
 Como mencioné anteriormente, no pude realizar esta práctica, por lo que próximamente estaré terminándola y subiéndola a mi GitHub. También actualizaré este blog para subirla.
 
@@ -108,5 +108,5 @@ También retomé mucho de mi anterior curso en Innovacción Virtual: Arquitectur
 Sin duda estas 7 semanas (contando la semana del OnBoarding) fueron muy enriquecedoras y a pesar de entrar en eísodios de ansiedad, estar en compañía y tener el apoyo y motivación siempre del MC Rodrigo y de los explorers fue sin duda lo que me mejoró muchas ocasiones mi estado de salud mental.  
 Me quedo con un gran conocimiento, ver todo lo que he avanzado es algo que nunca pensé que podría lograr hacer, por lo que, esperando que retome mis energías, quiero dar todo nuevamente en esta etapa de Backend.
 
-Sin más, nos vemos en un próximo post.
+Sin más, nos vemos en un próximo post.  
 *Saludos, Annie.✨*
