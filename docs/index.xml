@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://anagonzf.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://anagonzf.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué me llevé de la Frontend Mission?</title>
+      <link>https://anagonzf.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anagonzf.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Holaaa :) Bienvenides a este post, siéntanse cómodes en su lectura, les recomiendo una bebida mientras leen, ¡Buena lectura!
+¿Frontend Mission? Seguro te estás preguntando qué es la fronted mission (o tal vez no), pues te diré que fue la primera etapa en este Bootcamp &amp;ldquo;Launch X&amp;rdquo; por parte de Innovacción Virtal, aquí desarrollamos sobre todo habilidades referentes al coding con HTML y CSS, además de ver un poco de JS, VUEX y el despliegue en AZURE, aquí te contaré un poco de lo que me llevé o lo que rescato de las 6 semanas de esta misión.</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://anagonzf.github.io/my_launchx_blog/posts/intro/</link>
@@ -15,16 +25,6 @@
       <guid>https://anagonzf.github.io/my_launchx_blog/posts/intro/</guid>
       <description>¡Bienvenides! Comenzaré con una gran pregunta: ¿Qué valores, prácticas, sentimientos, emociones, y demás, valoras en un desarrollador profesional de software?
 Para responder, dejaré primero un pequeño contexto. En lo personal, nunca he trabajado con profesionales de software, por lo que mi experiencia en ese aspecto es nula básicamente. Comencé en el mundo de la programación en un curso el año pasado en Innovacción sobre Arquitectura de Información y obtuve mi insignia de Azure Fundamentals, que es programación en la nube; como continuación de esa previa experiencia, ingresé a Launch X (gracias nuevamente a Innovacción), por lo que estaré colocando valores que he visto en mis sherpas y mission comanders.</description>
-    </item>
-    
-    <item>
-      <title>¿Qué me llevé de la Frontend Mission?</title>
-      <link>https://anagonzf.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://anagonzf.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Holaaa :) Bienvenides a este post, siéntanse cómodes en su lectura, les recomiendo una bebida mientras leen, ¡Buena lectura!
-¿Frontend Mission? Seguro te estás preguntando qué es la fronted mission (o tal vez no), pues te diré que fue la primera etapa en este Bootcamp &amp;ldquo;Launch X&amp;rdquo; por parte de Innovacción Virtal, aquí desarrollamos sobre todo habilidades referentes al coding con HTML y CSS, además de ver un poco de JS, VUEX y el despliegue en AZURE, aquí te contaré un poco de lo que me llevé o lo que rescato de las 6 semanas de esta misión.</description>
     </item>
     
     <item>
