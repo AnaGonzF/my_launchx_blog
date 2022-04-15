@@ -59,7 +59,7 @@ Esta semana me recordó mucho a el on boarding, ya que se me hizo muy familiar l
 La práctica de esta semana fue realizar un pokedex, por lo que los requerimientos fueron: 
 - 💠 La maquetación del sitio con HTML
 - 💠 Diseño con CSS para que realmente pareciera un pokedex
-- 💠 Tener imput de entrada, ya que lo que se buscaba era que la persona pudiera introducir el nombre del pokemon y que apareciera una imagen y ciertos datps
+- 💠 Tener imput de entrada, ya que lo que se buscaba era que la persona pudiera introducir el nombre del pokemon para lanzar datos
 - 💠 Tomar el input e ir a consultar el API en [pokeapi](https://pokeapi.co/)
 - 💠 Mostrar en la pantalla los siguientes datos del pokemon ingresado: 
     - 🔹 Nombre
@@ -91,8 +91,8 @@ Y del lado del pastelero serían:
 - 💠 Información de la cantidad de adornos disponibles
 - 💠 Pedidos que se han reralizado con los datos del formulario
 Y en general:
-- Uso de rutas para poder acceder a la página de cliente y de pastelero (router de Vue)
-- Información de sabores, adornos, cantidades y precio debe de estar en el estado con Vuex o Vite y se debe modificar ahí para mostrarse en los componentes.
+- 💠 Uso de rutas para poder acceder a la página de cliente y de pastelero (router de Vue)
+- 💠 Información de sabores, adornos, cantidades y precio debe de estar en el estado con Vuex o Vite y se debe modificar ahí para mostrarse en los componentes.
 
 Como siempre, el bonus sería si;
 - 💠 La página es responsive
