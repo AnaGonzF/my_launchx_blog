@@ -102,10 +102,10 @@ Como mencioné anteriormente, no pude realizar esta práctica, por lo que próxi
 
 ### Semana 6: Despliegue espacial
 En esta semana vimos Angular, un framework opersource que fue desarrollado por Google. Este framework nos ayuda a trabajar de forma eficiente y organizada, esto gracias a que nos crea las carpetas necesarias para un proyecto, permitir que varios desarrolladores trabajen en el mismo proyecto, escalar, etc.  
-También retomé mucho de mi anterior curso en Innovacción Virtual: Arquitectura de la información, obtuve mi insignia en Azure Fundamentals por parte de Microsoft, ya que esta semana vimos un poco del despliegue en Azure, conectándo nuestro sitio de GitHub con Azure, para poder tener modificaciones en línea y poder visualizarlas en seguida en n uesttro sitio web.
+También retomé mucho de mi anterior curso en Innovacción Virtual: Arquitectura de la información, obtuve mi insignia en Azure Fundamentals por parte de Microsoft, ya que esta semana vimos un poco del despliegue en Azure, conectándo nuestro sitio de GitHub con Azure, para poder tener modificaciones en línea y poder visualizarlas en seguida en nuestro sitio web.
 
 ## Últimos comentarios
-Sin duda estas 7 semanas (contando la semana del OnBoarding) fueron muy enriquecedoras y a pesar de entrar en eísodios de ansiedad, estar en compañía y tener el apoyo y motivación siempre del MC Rodrigo y de los explorers fue sin duda lo que me mejoró muchas ocasiones mi estado de salud mental.  
+Sin duda estas 7 semanas (contando la semana del OnBoarding) fueron muy enriquecedoras y a pesar de entrar en episodios de ansiedad, estar en compañía y tener el apoyo y motivación siempre del MC Rodrigo y de los explorers fue sin duda lo que me mejoró muchas ocasiones mi estado de salud mental.  
 Me quedo con un gran conocimiento, ver todo lo que he avanzado es algo que nunca pensé que podría lograr hacer, por lo que, esperando que retome mis energías, quiero dar todo nuevamente en esta etapa de Backend.
 
 Sin más, nos vemos en un próximo post.  
